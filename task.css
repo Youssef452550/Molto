@@ -1,0 +1,275 @@
+body{
+    background-image: url(pic/3433814.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 0;
+    margin: 0;
+}
+.main{
+    background-color: #f589e6;
+    background-image: url(pic/4802143.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-bottom-left-radius:30px ;
+    display: flex;
+    justify-content: center;
+    font-family: "Shadows Into Light", cursive;
+font-style: normal;
+}
+.t{
+  color: #ffffff;
+  font-size: 3em;
+}
+.links{
+    display: flex;
+    padding-top: 30px;
+}
+.links a{
+    padding: 6px 10px;
+    text-decoration: none;
+    color: #ffffff;
+    transition: 0.7s;
+}
+.links a:hover{
+    transform: scale(1.1);
+    color: #000;
+}
+.w{
+    font-size: 2em;
+    color: white;
+}
+.sig{
+display: flex;
+justify-content: space-between;
+padding-top: 20px;
+}
+.sig a{
+ text-decoration: none;
+ color: #ffffff;
+ font-size: 1.6em;
+ padding: 6px 10px;
+}
+
+/* .log{
+    padding-left: 200px;
+    padding-top: 20px;
+}
+.log a{
+    text-decoration: none;
+color: #ffffff;
+font-size: large;
+cursor: pointer;
+}*/
+.sign a{
+    transition: 0.9s;
+}
+.sign a:hover{
+    transform: scale(1.2);
+backdrop-filter: blur(200px);
+box-shadow: 3px 0px 35px  black;
+border-radius: 20px;
+} 
+.log a{
+    transition: 0.9s;
+}
+.log a:hover{
+    transform: scale(1.2);
+backdrop-filter: blur(200px);
+box-shadow: 3px 0px 35px  black;
+border-radius: 20px;
+} 
+.boom{
+padding-left: 200px;
+}
+.learn{
+    font-size: x-small;
+    display: flex;
+    justify-content: center;
+padding-bottom: 60px;
+}
+/* .learn a{
+    text-decoration: none;
+    color: #ffffff;
+    font-size: small;
+    backdrop-filter: blur(200px);
+    border-radius: 20px;
+    box-shadow: 3px 4px 20px 0 black;
+width: 80px;
+height: 36px;
+display: flex;
+align-items: center;
+} */
+ .no{
+    width: 150px;
+ }
+.no a{
+    text-decoration: none;
+    color: #ffffff;
+    font-size: small;
+    backdrop-filter: blur(200px);
+    border-radius: 20px;
+    box-shadow: 3px 4px 20px 0 black;
+width: 100px;
+height: 36px;
+display: flex;
+align-items: center;
+padding: 0 8px;
+transition: 0.5s;
+}
+.h{
+   font-size: small;
+}
+.h a{
+background-color: #fff;
+ border-radius: 20px;
+width: 80px;
+height: 36px;
+display: flex;
+align-items: center;
+padding: 0 8px;
+text-decoration: none;
+color: #c01842;
+box-shadow: 3px 4px 20px 0 black;
+padding-left: 20px;
+transition: 0.5s;
+}
+.h a:hover{
+    transform: scale(1.1);
+}
+.no a:hover{
+    transform: scale(1.1);
+}
+/* .pi{
+    display: flex;
+    justify-content: space-between;
+} */
+.dp{
+    color: #07084b;
+}
+.ew{
+    text-align: center;
+padding-top: 100px;
+font-size: 3em;
+font-family: "Shadows Into Light", cursive;
+font-style: normal;
+}
+.pom{
+    padding-top: 3px;
+    padding-left: 200px;
+    display: flex;
+    justify-content: space-between;
+}
+.er{
+    font-size: 36px;
+}
+.ty{
+    font-size: 18px;
+}
+.toto{
+    padding-top: 100px;
+    font-family: "Shadows Into Light", cursive;
+    font-style: normal;
+}
+.sad{
+    padding-top: 10px;
+    font-size: 2em;
+}
+.rb{
+    font-size: 18px;
+}
+.mobile{
+    background-color: #030241;
+    height: 450px;
+    color: #ffffff;
+    font-family: "Shadows Into Light", cursive;
+    font-style: normal;
+    display: flex;
+    justify-content: center;
+    border-bottom-left-radius: 85px;
+    border-top-right-radius: 85px;
+}
+.words{
+    padding-top: 70px;
+}
+.wq{
+    font-size: 2em;
+}
+.em{
+    font-size: 18px;
+}
+.desk{
+    font-family: "Shadows Into Light", cursive;
+    font-style: normal;
+    display: flex;
+}
+.nio{
+    padding-top: 180px;
+    padding-left: 100px;
+}
+.rbn{
+    font-size: 2em;
+}
+.uop{
+    font-size: 18px;
+}
+.ybe{
+    font-size: 2em;
+}
+.tyt{
+    font-size: 18px;
+}
+.end{
+    background-color: #01011a;
+    color: #ffffff;
+    border-top-right-radius: 30px;
+    display: flex;
+    font-family: "Shadows Into Light", cursive;
+    font-style: normal;
+}
+.end a:hover{
+    text-decoration:underline;
+}
+.fin{
+    font-size: 1.5em;
+}
+.product{
+    padding-top:40px ;
+    padding-left: 400px;
+}
+.product a{
+    color: #ffffff;
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+}
+.hi{
+    font-size: 1.7em;
+}
+.company{
+    padding-top:40px ;
+    padding-left: 400px;
+}
+.company a{
+    color: #ffffff;
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+}
+.ih{
+    font-size: 1.7em;
+}
+.contact{
+    padding-top:40px ;
+    padding-left: 400px;
+}
+.contact a{
+    color: #ffffff;
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+}
+.rr{
+    font-size: 1.7em;
+}
